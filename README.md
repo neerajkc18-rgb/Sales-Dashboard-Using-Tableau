@@ -184,11 +184,5 @@ KPI cards with trend indicators
 Combination of charts, tables, and maps
 Likely Tools Used
 
-This dashboard appears to be created using:
 
-Microsoft Power BI
-
-Dashboard Screenshot : ()
-Excel / SQL for data preparation
-DAX calculations for KPIs and measures
-Map visualization tools for geographic analysis
+Dashboard Screenshot : (https://github.com/neerajkc18-rgb/Sales-Dashboard-Using-Tableau/blob/main/Sales%20Dashboard.png)
